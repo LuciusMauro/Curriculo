@@ -1,2 +1,2 @@
-Trabalho da disciplina Web I - Prof. Wagner
+Trabalho da disciplina Web I - Prof. Wagner. 
 Criação de um currículo html estilizado com css.
